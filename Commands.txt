@@ -1,0 +1,90 @@
+ls: Lists the contents of a directory, including files and subdirectories.
+Example: ls -l (detailed view)
+
+cd: Changes the current directory to a specified path.
+Example: cd /home/user
+
+pwd: Prints the full path of the current working directory.
+Example: pwd
+
+cp: Copies files or directories from one location cato another.
+Example: cp file1.txt /backup/
+
+mv: Moves or renames files or directories.
+Example: mv file1.txt newfile.txt
+
+rm: Deletes files or directories.
+Example: rm file1.txt (use -r for directories)
+
+mkdir: Creates a new directory.
+Example: mkdir new_directory
+
+rmdir: Removes an empty directory.
+Example: rmdir old_directory
+
+touch: Creates an empty file or updates the last modified timestamp of an existing file.
+Example: touch newfile.txt
+
+cat: Concatenates and displays the contents of files.
+Example: cat file1.txt
+
+more: Displays the content of a file one page at a time, allowing for easy reading.
+Example: more file1.txt
+
+less: Similar to more, but with additional features for navigating through large files.
+Example: less file1.txt
+
+head: Shows the first few lines of a file, useful for previewing its content.
+Example: head -n 10 file1.txt
+
+tail: Shows the last few lines of a file, often used to view recent log entries.
+Example: tail -n 10 file1.txt
+
+find: Searches for files and directories based on specified criteria.
+Example: find /home/user -name "*.txt"
+
+grep: Searches for specific text patterns within files.
+Example: grep "search_term" file1.txt
+
+chmod: Changes the permissions of files or directories, controlling access rights.
+Example: chmod 755 script.sh
+
+chown: Changes the ownership and group of files or directories.
+Example: chown user:group file1.txt
+
+ps: Shows information about currently running processes.
+Example: ps aux
+
+top: Provides a real-time view of system processes and resource usage.
+Example: top
+
+kill: Terminates a process using its process ID (PID).
+Example: kill 1234
+
+df: Displays the amount of disk space used and available on filesystems.
+Example: df -h
+
+du: Shows the disk usage of files and directories.
+Example: du -sh /home/user/
+
+free: Displays the amount of free and used memory in the system.
+Example: free -h
+
+ifconfig: Configures or displays network interface parameters (deprecated, use ip instead).
+Example: ifconfig
+
+ip: Displays or configures network interfaces, routing, and other network settings.
+Example: ip addr show
+
+ping: Tests network connectivity to a specified host by sending ICMP Echo Request packets.
+Example: ping google.com
+
+wget: Downloads files from the internet via HTTP, HTTPS, or FTP.
+Example: wget http://example.com/file.zip
+
+curl: Transfers data from or to a server using various protocols such as HTTP, HTTPS, FTP, and more.
+Example: curl -O http://example.com/file.zip
+
+apt-get: Manages packages on Debian-based systems, used for updating package lists and installing or removing software.
+
+Example: apt-get update (update package lists), apt-get install package_name (install a package)
