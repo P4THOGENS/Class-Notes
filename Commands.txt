@@ -88,3 +88,5 @@ Example: curl -O http://example.com/file.zip
 apt-get: Manages packages on Debian-based systems, used for updating package lists and installing or removing software.
 
 Example: apt-get update (update package lists), apt-get install package_name (install a package)
+
+Hi test
