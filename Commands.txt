@@ -89,4 +89,6 @@ apt-get: Manages packages on Debian-based systems, used for updating package lis
 
 Example: apt-get update (update package lists), apt-get install package_name (install a package)
 
-Hi test
+git init: Initializes a new Git repository in your project directory.
+
+Example: git init (Initialize git tracking)
