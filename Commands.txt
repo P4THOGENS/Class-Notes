@@ -86,8 +86,11 @@ curl: Transfers data from or to a server using various protocols such as HTTP, H
 Example: curl -O http://example.com/file.zip
 
 apt-get: Manages packages on Debian-based systems, used for updating package lists and installing or removing software.
-
 Example: apt-get update (update package lists), apt-get install package_name (install a package)
+
+find: Searches for files and directories in a directory hierarchy based on various criteria.
+
+grep: Searches for patterns (text) within files and prints the lines that match the pattern.
 
 git init: Initialize a new Git repository in the current directory.
 
