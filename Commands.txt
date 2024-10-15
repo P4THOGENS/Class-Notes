@@ -40,12 +40,6 @@ Example: head -n 10 file1.txt
 tail: Shows the last few lines of a file, often used to view recent log entries.
 Example: tail -n 10 file1.txt
 
-find: Searches for files and directories based on specified criteria.
-Example: find /home/user -name "*.txt"
-
-grep: Searches for specific text patterns within files.
-Example: grep "search_term" file1.txt
-
 chmod: Changes the permissions of files or directories, controlling access rights.
 Example: chmod 755 script.sh
 
@@ -92,6 +86,12 @@ find: Searches for files and directories in a directory hierarchy based on vario
 
 grep: Searches for patterns (text) within files and prints the lines that match the pattern.
 
+echo: Prints text to the terminal or writes text into a file.
+
+read: Used to take input from the user.
+
+
+
 git init: Initialize a new Git repository in the current directory.
 
 git clone <repository_url>: Clone a remote repository to your local machine.
@@ -131,3 +131,4 @@ git stash: Stash changes in the working directory temporarily.
 git stash pop: Apply stashed changes back to the working directory.
 
 git remote -v: Show the list of remote repositories and their URLs.
+
