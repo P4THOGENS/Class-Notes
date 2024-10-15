@@ -1,0 +1,52 @@
+WAN (Wide Area Network): A network that spans a large geographic area, 
+such as a city, country, or even global connections. It connects multiple LANs (Local Area Networks) and can use various technologies like leased lines, satellites, and the internet.
+
+LAN (Local Area Network): A network that covers a small geographic area, like a home, office, or school. It connects devices within close proximity, allowing for file sharing and communication over short distances.
+
+MAN (Metropolitan Area Network): A network that covers a larger geographic area than a LAN but smaller than a WAN, typically a city or metropolitan area. It is often used to connect multiple LANs within a city.
+
+PAN (Personal Area Network): A small network used for connecting personal devices within a very short range, usually a few meters. It’s commonly used for connecting devices like smartphones, tablets, and laptops via Bluetooth or infrared.
+
+VPN (Virtual Private Network): A technology that creates a secure, encrypted connection over a less secure network, such as the internet. It allows users to connect to a private network remotely and securely.
+
+Zero-Day Exploit: A security vulnerability that is unknown to those who should be interested in mitigating it, such as software developers or security teams. The term "zero-day" refers to the fact that there are zero days of protection against the exploit since it is unknown.
+
+Phishing: A type of social engineering attack where attackers impersonate legitimate organizations or individuals to deceive people into disclosing sensitive information, such as login credentials or financial details.
+
+Malware: Short for "malicious software," this term encompasses a variety of harmful software programs designed to damage, disrupt, or gain unauthorized access to computer systems. Types include viruses, worms, trojans, and ransomware.
+
+Ransomware: A type of malware that encrypts the victim’s files or locks their system, demanding payment (ransom) to restore access. It often threatens to delete or leak data if the ransom is not paid.
+
+Trojan Horse (Trojan): A type of malware that disguises itself as a legitimate program or file to trick users into installing it. Once installed, it can create backdoors or perform other malicious activities without the user’s knowledge.
+
+Rootkit: A collection of software tools used by hackers to gain and maintain unauthorized access to a computer system while hiding their presence. Rootkits can operate at the kernel level and are difficult to detect.
+
+Botnet: A network of compromised computers (bots) controlled remotely by a hacker (botmaster). Botnets can be used to perform distributed attacks, such as Distributed Denial of Service (DDoS) attacks, or for sending spam.
+
+Backdoor: A hidden method of bypassing normal authentication or encryption in a system, often installed by malware. It allows unauthorized access to the system or data without the user’s knowledge.
+
+Exploit: A piece of software, a set of commands, or a sequence of actions that takes advantage of a vulnerability in a system or application to perform unauthorized actions or gain access.
+
+Social Engineering: Techniques used by attackers to manipulate individuals into divulging confidential information or performing actions that compromise security. It relies on psychological manipulation rather than technical exploits.
+
+Keylogger: A type of surveillance software that records keystrokes made by a user on their keyboard. This can capture sensitive information like passwords, credit card numbers, and personal messages.
+
+Man-in-the-Middle (MitM) Attack: A type of attack where the hacker intercepts and potentially alters communications between two parties without their knowledge. This can compromise the confidentiality and integrity of the transmitted data.
+
+Denial of Service (DoS): An attack aimed at disrupting the normal functioning of a service, server, or network by overwhelming it with a flood of malicious traffic, causing it to become slow or unresponsive.
+
+Distributed Denial of Service (DDoS): A type of DoS attack where multiple compromised systems are used to flood a target with traffic, making it even harder to defend against and mitigate.
+
+Brute Force Attack: A method used to crack passwords or encryption by trying all possible combinations until the correct one is found. It is a time-consuming process but effective against weak passwords.
+
+SQL Injection: A type of attack that exploits vulnerabilities in a web application's database query processing by inserting malicious SQL code into input fields. This can allow attackers to manipulate or access database contents.
+
+Cross-Site Scripting (XSS): A security vulnerability that allows attackers to inject malicious scripts into web pages viewed by other users. The injected scripts can steal cookies, session tokens, or other sensitive information.
+
+Encryption: The process of converting data into a code to prevent unauthorized access. Encryption uses algorithms and keys to ensure that only authorized parties can decrypt and read the data.
+
+Decryption: The process of converting encrypted data back into its original form, making it readable again. This is done using a decryption key that corresponds to the encryption key.
+
+Vulnerability: A weakness in a system, software, or network that can be exploited by hackers to gain unauthorized access or cause damage. Identifying and addressing vulnerabilities is crucial for maintaining security.
+
+Firewall: A firewall is a security system that monitors and controls network traffic based on predefined rules to prevent unauthorized access and protect against cyber threats. It can be either hardware or software and helps ensure only legitimate data can enter or leave a network.
