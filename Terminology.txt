@@ -50,3 +50,18 @@ Decryption: The process of converting encrypted data back into its original form
 Vulnerability: A weakness in a system, software, or network that can be exploited by hackers to gain unauthorized access or cause damage. Identifying and addressing vulnerabilities is crucial for maintaining security.
 
 Firewall: A firewall is a security system that monitors and controls network traffic based on predefined rules to prevent unauthorized access and protect against cyber threats. It can be either hardware or software and helps ensure only legitimate data can enter or leave a network.
+
+Octal Notation: Octal notation is used to specify file permissions in Unix-like operating systems.
+r = 4
+w = 2
+x = 1
+
+Permission    Octal
+---		0
+--x		1
+-w-		2
+-wx		3
+r--		4
+r-x		5
+rw-		6
+rwx		7
